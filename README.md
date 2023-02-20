@@ -15,7 +15,7 @@ The management program can be used by a bookstore clerk. The program allows the 
 2. Executing Website
 3. Authors
 
-## Copying Files
+## 1. Copying Files
 
 Go to the directory or folder where you want to install the project and enter the following command in the command line:
 ```
@@ -23,13 +23,13 @@ Go to the directory or folder where you want to install the project and enter th
 ```
 If you are asked for a login then it should be because you might have made a typing error with the link.
 
-## Executing Website
+## 2. Executing Website
 
 If your files copied successfully, there should be a folder personal_cv when you (for windows) enter the >dir command.
 Go to your file explorer software and go to the folder where you copied he files.
 
 Double click on the index.html file and the website will open in your default internet browser.
 
-## Authors
+## 3. Authors
 
 Riaan Deventer  - [LinkedIn: @riaandeventer](https://www.linkedin.com/in/riaandeventer/)
