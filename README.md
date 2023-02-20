@@ -1,6 +1,6 @@
 # Basic - Personal Curriculum Site
 
-This program helps the clerk in the bookstore to keep track of the books in the store.
+This website is a beginners layout for a personal curriculum.
 
 ## Description
 
