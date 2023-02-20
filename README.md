@@ -4,11 +4,14 @@ This website is a beginners layout for a personal curriculum.
 
 ## Description
 
-The management program can be used by a bookstore clerk. The program allows the clerk to:
-* add new books to the database
-* update book information
-* delete books from the database
-* search the database to find a specific book.
+The website have 1 page with menu that jumps to the following sections:
+* Bio
+* Contact Details
+* Skills & Competencies
+* Education
+* Work Experience
+* Projects
+* Blog
 
 ## Table of Content
 1. Copying Files
